@@ -39,6 +39,16 @@ main()
 
 
 # Reflection:
-# Creating this Remote Health Monitoring System helped me understand how different classes interact in an object-oriented program. The easy part was writing the basic classes such as Patient, Doctor, and Alert because they only store simple information. Connecting the classes together was a bit harder than i thought it would be , especially figuring out the part  where the wearable device sends a reading to the monitor, then the monitor creates an alert and sends it to the doctor. Another thing that was a bit difficult was deciding where certain actions should happen, like where the doctor or the monitor should create the recommendation and i also encountered so many errors and it even got frustrating at some point and i dont know if everything is going to run simultaneously but i tried by best . In the end I kept everything simple so the code is easier to read . 
+# Creating this Remote Health Monitoring System helped me understand how different classes interact in an object-oriented program. 
+#The easy part was writing the basic classes such as Patient, Doctor, 
+#and Alert because they only store simple information. 
+#Connecting the classes together was a bit harder than i thought it would be , 
+#especially figuring out the part  where the wearable device sends a reading to the monitor, 
+#then the monitor creates an alert and sends it to the doctor. 
+#Another thing that was a bit difficult was deciding where certain actions should happen, 
+#like where the doctor or the monitor should create the recommendation and i also encountered so many errors 
+#and it even got frustrating at some point and i dont know if everything is going to run simultaneously but i tried by best . 
+#In the end I kept everything simple so the code is easier to read . 
+
 
 
